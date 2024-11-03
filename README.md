@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <!--
 Resources that I used for the above readme.md file
+https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps.html
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
