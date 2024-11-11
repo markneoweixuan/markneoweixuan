@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-About me:
-- :heart_eyes: I am a passionate data analyst dedicated to leveraging data-driven insights to improve public health and biomedical research.
-- :computer: I am skilled in R, Python, SQL, data visualization using Power BI & Python, and Microsoft Office suite.
-- :student: I am currently studying to be a data analyst.
-- :man_office_worker: Previously worked as a research officer at A*Star and a research assistant at Hummingbird Bioscience, and a operation manager at Resilient Secure Consultancy Pte Ltd.
+## About me:
+- :heart_eyes: I am a passionate *aspiring* data analyst dedicated to leveraging data-driven insights to improve public health and biomedical research.
+- :computer: I am skilled in R, Python, SQL, data visualization using Power BI & Python, and well-versed in Microsoft Office suite.
+- :student: I am currently studying to be a data analyst via [NTUC LearningHub SkillsFuture Career Transition Programme (SCTP) Associate Data Analyst](https://www.linkedin.com/posts/ntuc-learninghub_sctp-associate-data-analyst-activity-7117805423038001152-6exr) Programme.
+- :man_office_worker: Previously I worked as a research officer at A*Star and a research assistant at Hummingbird Bioscience, and a operation manager at Resilient Secure Consultancy Pte Ltd.
 
 I am using GitHub to showcase what I have learnt during my journey to become a data analyst and hopefully a data scientist (in the future).
 
@@ -31,6 +31,9 @@ https://book.the-turing-way.org/collaboration/github-novice/github-novice-firsts
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+https://dillinger.io/
+Online Markdown Editor - Dillinger, the Last Markdown Editor ever. Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive. Convert HTML to Markdown. 100% Open Source!
 -->
 
 <!--
@@ -39,6 +42,9 @@ https://github.com/KirstieJane
 https://github.com/Abdurahman-hassan
 https://github.com/huangsam
 https://github.com/chiphuyen
+
+https://www.ntuclearninghub.com/-/blogs/graduate-journey-uncertainty-new-opportunities-tech
+https://github.com/NMustikha
 -->
 
 
